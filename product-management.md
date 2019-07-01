@@ -3,7 +3,7 @@
 
 ## Why is there a need for Product Management?
 
-## What is the role of a Product Manager at Cordage?
+## What is the role of a Product Manager at Cordage?
 
 ### What to expect as a Product Manager?
 
