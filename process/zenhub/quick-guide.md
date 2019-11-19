@@ -18,4 +18,7 @@ A workspace is a place
 ### 
 
 ### Quick-tips
-- Multirepo.
+#### Labels 
+
+## Tricky
+How do we managing frontend projects.
